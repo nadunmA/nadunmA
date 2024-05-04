@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nadun Algoda</h1>
 <h3 align="center">i like learn programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadunma&label=Profile%20views&color=0e75b6&style=flat" alt="nadunma" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nadunma&label=Profile%20views&color=0e75b6&style=flat" alt="nadunma" /> </p>
+
+---
 
 - 🌱 I’m currently learning **Software Engineering**
 
