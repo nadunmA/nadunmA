@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:4000/1*fIKVJUcZWHakb5y1KUJQ_A.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:4000/1*fIKVJUcZWHakb5y1KUJQ_A.gif)
 <h1 align="center">Hi 👋, I'm Nadun Algoda</h1>
 <h3 align="center">i like learn programming</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
