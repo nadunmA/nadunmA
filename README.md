@@ -1,3 +1,4 @@
+![MasterHead](https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif)
 <h1 align="center">Hi 👋, I'm Nadun Algoda</h1>
 <h3 align="center">i like learn programming</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/06/06b70342f0dbc2dc5ed41da40a5312c1.gif">
