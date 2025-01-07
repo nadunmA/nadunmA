@@ -7,11 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **programming**
-
-- ⚡ Fun fact ****call me as Nadun****
-
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
