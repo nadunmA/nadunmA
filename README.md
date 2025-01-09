@@ -2,7 +2,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <h1 align="center">Hi 👋, I'm Nadun Algoda</h1>
 <h3 align="center">i like learn programming</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadunma&label=Profile%20views&color=0e75b6&style=flat" alt="nadunma" /> </p>
 
@@ -15,7 +15,7 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,c,css,express,figma,github,html,java,js,mongodb,mysql,nodejs,postman,react,tailwind,vscode,ps&perline=14" />
