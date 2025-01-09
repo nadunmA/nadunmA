@@ -23,12 +23,12 @@
 </p>
 
 <td width="50%" align="left">
-  <img  align="right"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8"/>
-  </td>
+  <img  align="right"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=nadunma&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8"/>
+</td>
 
-<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadunma&show_icons=true&locale=en&layout=compact" alt="nadunma" /></p>
+<!--<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadunma&show_icons=true&locale=en&layout=compact" alt="nadunma" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadunma&show_icons=true&locale=en" alt="nadunma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadunma&theme=dark&show_icons=true&locale=en" alt="nadunma" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nadunma&" alt="nadunma" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nadunma&theme=dark" alt="nadunma" /></p>
 
