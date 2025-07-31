@@ -38,7 +38,7 @@ const nadun = {
         databases: ["MongoDB", "MySQL"],
         tools: ["Git", "Postman", "VS Code", "Figma"]
     },
-    currentlyLearning: "Advanced React Patterns & Microservices",
+    currentlyLearning: "Full Stack Development",
     goals2024: "Contribute to Open Source & Build Scalable Applications"
 };
 ```
