@@ -1,36 +1,139 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-<h1 align="center">Hi 👋, I'm Nadun Algoda</h1>
-<h3 align="center">i like learn programming</h3>
-<!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadunma&label=Profile%20views&color=0e75b6&style=flat" alt="nadunma" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nadun+Algoda!;&color=58a6ff" />
+</h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">🌟 Tech Enthusiast</h3>
 
-- 🌱 I’m currently learning **programming**
-  
-- ⚡ Fun fact ****call me as Nadun****
-  
-- 🌏 https://solomonprompts.site/#/
-
-
-</p>
-
-<h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,c,css,express,figma,github,html,java,js,mongodb,mysql,nodejs,postman,react,tailwind,vscode,ps,spring&perline=14" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=nadunma&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="nadunma" />
+  <img src="https://img.shields.io/github/followers/nadunma?label=Followers&style=for-the-badge&color=58a6ff" alt="followers" />
 </p>
 
-<td width="50%" align="left">
-  <img  align="right"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=nadunma&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8"/>
-</td>
+---
 
-<!--<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadunma&show_icons=true&locale=en&layout=compact" alt="nadunma" /></p>-->
+## 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadunma&theme=dark&show_icons=true&locale=en" alt="nadunma" /></p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nadunma&theme=dark" alt="nadunma" /></p>
+```javascript
+const nadun = {
+    location: "Sri Lanka 🇱🇰",
+    currentFocus: "Full Stack Development",
+    funFact: "I turn coffee into code ☕️→💻",
+    
+    code: ["JavaScript", "Java", "C++", "C", "Python"],
+    askMeAbout: ["Web Dev", "Tech", "Problem Solving"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vanilla JS"],
+            css: ["Tailwind CSS", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+            java: ["Spring Boot"]
+        },
+        databases: ["MongoDB", "MySQL"],
+        tools: ["Git", "Postman", "VS Code", "Figma"]
+    },
+    currentlyLearning: "Advanced React Patterns & Microservices",
+    goals2024: "Contribute to Open Source & Build Scalable Applications"
+};
+```
 
+---
+
+## 🎯 What I'm Up To
+
+- 🔭 **Currently Working On:** Building full-stack web applications with MERN stack
+- 🌱 **Currently Learning:** Advanced React patterns, Node.js best practices, and MEARN
+- 💬 **Ask Me About:** JavaScript, React, Node.js, or anything web development related
+- ⚡ **Fun Fact:** Call me Nadun - I love debugging as much as I love creating! 🐛➡️✨
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  
+### 🌟 [Solomon Prompts](https://solomonprompts.site/#/)
+**Generate AI-Powered Images**
+- **Tech Stack:** React, Tailwind CSS
+- **Features:** Generate Ai images, Responsive design
+- 🔗 [Live Demo](https://solomonprompts.site/#/) • [Source Code](#)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,c,python,html,css" />
+</p>
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,figma" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql" />
+</p>
+
+### 🔧 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,ps,npm" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadunma&theme=github-dark-blue&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nadunma&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadunma&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadunma)
+{/*[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://solomonprompts.site/#/) */}
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🚀 Let's Build Something Amazing Together!
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+**Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
+
+</div>
