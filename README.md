@@ -17,28 +17,34 @@
 ## 🧑‍💻 About Me
 
 ```javascript
+Initializing profile... █▒▒▒▒▒▒▒▒▒ 10%
+
 const nadun = {
-    location: "Sri Lanka 🇱🇰",
-    currentFocus: "Full Stack Development",
-    funFact: "I turn coffee into code ☕️→💻",
-    
-    code: ["JavaScript", "Java", "C++", "C", "Python"],
-    askMeAbout: ["Web Dev", "Tech", "Problem Solving"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vanilla JS"],
-            css: ["Tailwind CSS", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            java: ["Spring Boot"]
-        },
-        databases: ["MongoDB", "MySQL"],
-        tools: ["Git", "Postman", "VS Code", "Figma"]
-    },
-    currentlyLearning: "Full Stack Development",
-    goals2024: "Contribute to Open Source & Build Scalable Applications"
-};
+location: "Sri Lanka 🇱🇰",
+currentFocus: "Full Stack Development",
+funFact: "I turn coffee into code ☕️→💻",
+
+code: ["JavaScript", "Java", "C++", "C", "Python"],
+askMeAbout: ["Web Dev", "Tech", "Problem Solving"],
+
+technologies: {
+frontEnd: {
+js: ["React", "Vanilla JS"],
+css: ["Tailwind CSS", "Bootstrap"]
+},
+backEnd: {
+js: ["Node.js", "Express"],
+java: ["Spring Boot"]
+},
+databases: ["MongoDB", "MySQL"],
+tools: ["Git", "Postman", "VS Code", "Figma"]
+},
+
+currentlyLearning: "Full Stack Development",
+goals2024: "Contribute to Open Source & Build Scalable Applications"
+}
+
+Execution complete... ██████████ 100%
 ```
 
 ---
