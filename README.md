@@ -96,22 +96,14 @@ const nadun = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadunma&theme=github-dark-blue&hide_border=true" />
 </div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nadunma&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
 
 ---
 
 <h3 align="center">📅 My GitHub Contributions Over the Years</h3>
 
-<p align="center">
-  <img 
-    src="https://ghchart.rshah.org/00ff00/nadunma" 
-    alt="nadunma's Github chart" 
-    width="95%" 
-    style="border-radius: 12px;" 
-  />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadunma&theme=minimal&bg_color=ffffff&color=196127&line=196127&point=196127&area=true&hide_border=false" />
+</div>
 
 ---
 
