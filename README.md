@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nadun+Algoda!;&color=58a6ff" />
 </h1>
 
-<h3 align="center">🌟 Tech Enthusiast</h3>
+<h3 align="center">🌟 https://solomonprompts.site/#/</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nadunma&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="nadunma" />
