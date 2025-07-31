@@ -45,24 +45,16 @@ const nadun = {
 
 ---
 
-## 🎯 What I'm Up To
-
-- 🔭 **Currently Working On:** Building full-stack web applications with MERN stack
-- 🌱 **Currently Learning:** Advanced React patterns, Node.js best practices, and MEARN
-- 💬 **Ask Me About:** JavaScript, React, Node.js, or anything web development related
-- ⚡ **Fun Fact:** Call me Nadun - I love debugging as much as I love creating! 🐛➡️✨
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
   
 ### 🌟 [Solomon Prompts](https://solomonprompts.site/#/)
 **Generate AI-Powered Images**
-- **Tech Stack:** React, Tailwind CSS
-- **Features:** Generate Ai images, Responsive design
-- 🔗 [Live Demo](https://solomonprompts.site/#/) • [Source Code](#)
+
+**Tech Stack:** React, Tailwind CSS  
+**Features:** Generate AI images, Responsive design  
+🔗 [Live Demo](https://solomonprompts.site/#/) • [Source Code](#)
 
 </div>
 
@@ -99,9 +91,11 @@ const nadun = {
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadunma&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+</div>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadunma&theme=github-dark-blue&hide_border=true" />
 </div>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nadunma&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
@@ -116,14 +110,9 @@ const nadun = {
 
 ---
 
-<div align="center">
-  
+<div align="center">  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadunma)
-{/*[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://solomonprompts.site/#/) */}
-
 </div>
 
 ---
