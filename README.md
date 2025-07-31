@@ -102,18 +102,16 @@ const nadun = {
 
 ---
 
-## 📈 Contribution Graph
+<h3 align="center">📅 My GitHub Contributions Over the Years</h3>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadunma&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-<div align="center">  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadunma)
-</div>
+<p align="center">
+  <img 
+    src="https://ghchart.rshah.org/00ff00/nadunma" 
+    alt="nadunma's Github chart" 
+    width="95%" 
+    style="border-radius: 12px;" 
+  />
+</p>
 
 ---
 
