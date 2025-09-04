@@ -4,12 +4,12 @@
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
   
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Nadun+Algoda!;Full+Stack+Developer;Problem+Solver;Coffee+Enthusiast!;&color=58a6ff&background=00000000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Nadun+Algoda!;&color=58a6ff&background=00000000" />
   </h1>
   
   <h3 align="center">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
-    🌐 Portfolio: <a href="https://solomonprompts.site/#/">solomonprompts.site</a> | 📧 Let's Connect!
+    🌐 Try: <a href="https://solomonprompts.site/#/">solomonprompts.site</a> | 📧 Let's Connect!
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
   </h3>
   
@@ -41,7 +41,7 @@ const nadun: Developer = {
   name: "Nadun Algoda",
   location: "Sri Lanka 🇱🇰",
   currentRole: "Full Stack Developer",
-  languages: ["JavaScript", "TypeScript", "Java", "Python", "C++"],
+  languages: ["JavaScript", "C", "Java", "Python", "C++"],
   specialties: ["React.js", "Node.js", "Spring Boot", "MongoDB"],
   currentFocus: ["System Design", "Cloud Architecture", "AI Integration"],
   lifePhilosophy: "Code with purpose, build with passion! ✨"
@@ -121,14 +121,6 @@ console.log("🎯 Open to collaboration");
 
 <div align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadunma&theme=react&bg_color=1F222E&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nadunma&theme=onestar&no-frame=true&column=7&margin-w=10&margin-h=10" />
 </div>
 
 ---
