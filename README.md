@@ -119,48 +119,6 @@ console.log("🎯 Open to collaboration");
   
 </div>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadunma&theme=react&bg_color=1F222E&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&hide_border=true" />
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadunma&theme=react-dark&bg_color=1F222E&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-  
-  <p>
-    <a href="https://linkedin.com/in/nadunma" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/nadunma" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="mailto:nadun@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://solomonprompts.site/#/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" />
-    </a>
-  </p>
-  
-  ### 💡 Open for:
-  ```
-  🚀 Exciting collaborations    🔥 Challenging projects
-  💼 Freelance opportunities   🎯 Open source contributions
-  📚 Knowledge sharing         ☕ Coffee chat about tech
-  ```
-  
-</div>
-
 ---
 
 <div align="center">
