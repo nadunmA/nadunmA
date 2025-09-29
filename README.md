@@ -83,33 +83,6 @@ console.log("🎯 Open to collaboration");
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-  
-  <div align="center">
-    <h3>🎨 Solomon Prompts</h3>
-    <a href="https://solomonprompts.site/#/" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadunma&repo=solomon-prompts&theme=react&bg_color=1F222E&title_color=58a6ff&icon_color=58a6ff&hide_border=true&show_icons=false" />
-    </a>
-    <br>
-    <br>
-    <p>
-      <a href="https://solomonprompts.site/#/" target="_blank">
-        <img src="https://img.shields.io/badge/Live%20Demo-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/>
-      </a>
-      <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </p>
-    <p><strong>AI Prompt Sharing Web Site</strong></p>
-    <p>🔹 React.js • Tailwind CSS • AI Integration • Community Platform</p>
-  </div>
-  
-</div>
-
----
-
 ## 📈 GitHub Analytics Dashboard
 
 <div align="center">
