@@ -47,7 +47,6 @@ const nadun: Developer = {
   lifePhilosophy: "Code with purpose, build with passion! ✨"
 };
 
-// Current Status
 console.log("🔥 Building scalable solutions");
 console.log("📚 Learning cloud technologies");
 console.log("🎯 Open to collaboration");
