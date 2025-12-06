@@ -9,7 +9,7 @@
   
   <h3 align="center">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
-    🌐 Try: <a href="https://solomonprompts.site/#/">solomonprompts.site</a> | 📧 Let's Connect!
+    🌐 Try: <a href="https://nadunalgoda.me/">NadunAlgoda.me</a> | 📧 Let's Connect!
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
   </h3>
   
