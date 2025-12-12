@@ -65,6 +65,9 @@ const nadun = {
 ### Tools & Others
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,postman,grafana,cloudflare,github" alt="tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="48" height="48" style="margin-left: 4px"/>
+</p>
+</div>
 </p>
 
 </div>
