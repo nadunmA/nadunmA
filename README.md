@@ -77,8 +77,10 @@ const nadun = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadunma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nadunma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+  
+  <img height="180em"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadunma&layout=compact&theme=tokyonight&hide_border=true&langs_count=20"/>
+
 </div>
 
 <div align="center">
