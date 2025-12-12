@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nadun%20Algoda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20System%20Architect%20|%20Cloud%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nadun%20Algoda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20DevOps%20%20|%20Cloud%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
 
 <p>
   <a href="https://nadunalgoda.me/"><img src="https://img.shields.io/badge/Portfolio-nadunalgoda.me-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
