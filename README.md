@@ -33,7 +33,6 @@ const nadun = {
 - 🌱 Exploring DevOps & Cloud Technologies
 - 💡 Passionate about clean code & system design
 - 🎯 Always ready for new challenges
-- 📫 Reach me: **[Your Email]**
 
 <br clear="right"/>
 
