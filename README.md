@@ -68,9 +68,6 @@ const nadun = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="48" height="48" style="margin-left: 4px"/>
 </p>
 </div>
-</p>
-
-</div>
 
 ---
 
@@ -78,8 +75,8 @@ const nadun = {
 
 <div align="center">
   
-  <img height="180em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadunma&layout=compact&theme=tokyonight&hide_border=true&langs_count=20"/>
+  <img height="200em"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadunma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400&hide=html,css&size_weight=0.5&count_weight=0.5"/>
 
 </div>
 
