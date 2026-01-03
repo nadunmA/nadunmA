@@ -22,7 +22,7 @@
 const nadun = {
   location: "Sri Lanka 🇱🇰",
   role: "Full Stack Developer",
-  focus: ["Cloud Engineering", "DevOps", "Ai Integration"],
+  focus: ["Cloud Engineering", "DevOps", "AI Integration"],
   philosophy: "Code with purpose, build with passion ✨",
   currentlyLearning: ["AWS", "Kubernetes", "Microservices"],
   openToCollaborate: true
@@ -74,18 +74,27 @@ const nadun = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img height="200em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadunma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400&hide=html,css&size_weight=0.5&count_weight=0.5"/>
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nadunma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nadunma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
 <div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com/?user=nadunma&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+### 📉 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nadunma&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nadunma&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=nadunma&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
 </div>
 
 ---
