@@ -1,123 +1,126 @@
-<div align="center">
+<h1 align="center">
+  Hi there, I'm Nadun 👋
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nadun%20Algoda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20DevOps%20%20|%20Cloud%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
-
-<p>
-  <a href="https://nadunalgoda.me/"><img src="https://img.shields.io/badge/Portfolio-nadunalgoda.me-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=nadunma&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/nadunma?label=Followers&style=for-the-badge&color=00D9FF" alt="followers" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&pause=800&color=0EA5E9&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Cloud+%26+DevOps+Engineer;MERN+Stack+Specialist;AWS+%7C+Docker+%7C+Kubernetes" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;I'm+Nadun+Algoda!;Welcome+to+my+Profile!+😊;&color=00D9FF&background=00000000" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750090-94f6f9a5-4c5d-4f2a-9a76-3e2e7f6c8b8b.gif" width="100%" />
+</p>
 
-</div>
+# Hi there, I'm [Your Name] 👋
 
----
+## Full-Stack Developer | Cloud Engineer | DevOps Enthusiast
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding gif"/>
+I'm a passionate developer specializing in building scalable web applications and cloud infrastructure. I love working with modern technologies and automating everything possible.
 
-## 💫 About Me
+### 🚀 About Me
 
-```typescript
-const nadun = {
-  location: "Sri Lanka 🇱🇰",
-  role: "Full Stack Developer",
-  focus: ["Cloud Engineering", "DevOps", "AI Integration"],
-  philosophy: "Code with purpose, build with passion ✨",
-  currentlyLearning: ["AWS", "Kubernetes", "Microservices"],
-  openToCollaborate: true
-};
-```
+- 🔭 Currently working on full-stack applications using MERN stack
+- 🌱 Learning advanced cloud architecture and DevOps practices
+- 💬 Ask me about React, Node.js, AWS, Docker, and CI/CD
+- ⚡ Fun fact: I automate my coffee breaks with serverless functions
 
-- 🔭 Building scalable, cloud-native applications
-- 🌱 Exploring DevOps & Cloud Technologies
-- 💡 Passionate about clean code & system design
-- 🎯 Always ready for new challenges
+### 🛠️ Tech Stack
 
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
+#### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=javascript,java,python" alt="languages" />
 </p>
 
-### Frontend
+#### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,figma" alt="frontend" />
 </p>
 
-### Backend & Database
+#### Backend & Database
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql" alt="backend" />
 </p>
 
-### DevOps & Cloud
+#### DevOps & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,jenkins,terraform,git,linux" alt="devops" />
 </p>
 
-### Tools & Others
+#### Tools & Others
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,postman,grafana,cloudflare,github" alt="tools" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="48" height="48" style="margin-left: 4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="48" height="48" style="vertical-align: middle; margin: 0 4px;"/>
+  <img src="https://res.cloudinary.com/snyk/image/upload/v1470745391/logo/snyk-print.svg" alt="snyk" width="90" height="48" style="vertical-align: middle; margin: 0 4px;"/>
 </p>
-</div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 Most Used Languages
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nadunma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nadunma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
-<div align="center">
-
-### 📉 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nadunma&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
-
-</div>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=nadunma&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadunmA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
-<div align="center">
-  
-  ### 💬 Let's Connect!
-  
-  <p>
-    <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  </p>
-  
-  ### ⚡ Fun Fact
-  *I turn coffee ☕ into code 💻 and bugs 🐛 into features ✨*
-  
-  ---
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=50&duration=3500&lines=Thanks+for+visiting!+😊;Let's+build+something+amazing!+🚀;Star+⭐+if+you+like+my+work!;&color=00D9FF&background=0D111700" />
-  
-  **⭐ If you find my work interesting, consider starring some repositories!**
+### 📈 GitHub Stats
 
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nadunmA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadunmA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📚 What I'm Currently Learning
+
+- 🔍 Advanced Kubernetes patterns and best practices
+- 🚀 Serverless architecture with AWS Lambda
+- 🤖 AI/ML integration in web applications
+- 🔐 Security best practices in DevOps (DevSecOps)
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://dev.to/nadunmA" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 💼 Open to Opportunities
+
+I'm currently open to full-time opportunities in:
+- 🎯 Full-Stack Development (MERN Stack)
+- ☁️ Cloud Engineering & Architecture
+- 🔧 DevOps & Site Reliability Engineering
+- 🏗️ Microservices & Distributed Systems
+
+**Feel free to reach out if you want to collaborate or just chat about tech!**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nadunmA&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>⭐ From <a href="https://github.com/nadunmA">nadunmA</a></i>
+</p>
