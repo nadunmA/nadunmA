@@ -10,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750090-94f6f9a5-4c5d-4f2a-9a76-3e2e7f6c8b8b.gif" width="100%" />
 </p>
 
-## 👨‍💻 Full-Stack Developer | Cloud Engineer | DevOps Enthusiast
+## 👨‍💻 Full-Stack Developer | Building expertise in Cloud & DevOps
 
 I'm a passionate developer specializing in building scalable web applications and cloud infrastructure. I love working with modern technologies and automating everything possible.
 
@@ -57,7 +57,8 @@ I'm a passionate developer specializing in building scalable web applications an
   <img src="https://skillicons.dev/icons?i=jenkins" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=terraform" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=linux" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snyk.svg" alt="Snyk" width="58" height="58"/>
 </p>
 
 ### 🛠️ Tools & Others
