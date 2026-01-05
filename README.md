@@ -3,16 +3,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&pause=800&color=0EA5E9&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Cloud+%26+DevOps+Engineer;MERN+Stack+Specialist;AWS+%7C+Docker+%7C+Kubernetes" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&pause=800&color=0EA5E9&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Cloud+%26+DevOps+Engineer;MERN+Stack+Specialist;AWS+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750090-94f6f9a5-4c5d-4f2a-9a76-3e2e7f6c8b8b.gif" width="100%" />
 </p>
 
-# Hi there, I'm [Your Name] 👋
-
-## Full-Stack Developer | Cloud Engineer | DevOps Enthusiast
+## 👨‍💻 Full-Stack Developer | Cloud Engineer | DevOps Enthusiast
 
 I'm a passionate developer specializing in building scalable web applications and cloud infrastructure. I love working with modern technologies and automating everything possible.
 
@@ -23,54 +21,76 @@ I'm a passionate developer specializing in building scalable web applications an
 - 💬 Ask me about React, Node.js, AWS, Docker, and CI/CD
 - ⚡ Fun fact: I automate my coffee breaks with serverless functions
 
-### 🛠️ Tech Stack
+---
 
-#### Languages
+### 📝 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,java,python" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=javascript" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-#### Frontend
+### 🖼️ Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,figma" alt="frontend" />
+  <img src="https://skillicons.dev/icons?i=react" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-#### Backend & Database
+### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-#### DevOps & Cloud
+### 🚀 DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,jenkins,terraform,git,linux" alt="devops" />
+  <img src="https://skillicons.dev/icons?i=aws" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nginx" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jenkins" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=terraform" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
-#### Tools & Others
+### 🛠️ Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,grafana,cloudflare,github" alt="tools" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="48" height="48" style="vertical-align: middle; margin: 0 4px;"/>
-  <img src="https://res.cloudinary.com/snyk/image/upload/v1470745391/logo/snyk-print.svg" alt="snyk" width="90" height="48" style="vertical-align: middle; margin: 0 4px;"/>
+  <img src="https://skillicons.dev/icons?i=vscode" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=grafana" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cloudflare" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
 ---
 
-### 📊 Most Used Languages
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadunmA&theme=tokyonight" alt="Repos Per Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadunmA&theme=tokyonight" alt="Most Commit Language" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadunmA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadunmA&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadunmA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadunmA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
@@ -86,17 +106,11 @@ I'm a passionate developer specializing in building scalable web applications an
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/nadunmA" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://dev.to/nadunmA" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -119,6 +133,10 @@ I'm currently open to full-time opportunities in:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nadunmA&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </p>
 
 <p align="center">
