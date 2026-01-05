@@ -25,47 +25,47 @@ I'm a passionate developer specializing in building scalable web applications an
 
 ### 📝 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 🖼️ Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🚀 DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=kubernetes" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nginx" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=jenkins" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=terraform" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nginx" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jenkins" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=terraform" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ### 🛠️ Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=grafana" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cloudflare" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=grafana" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cloudflare" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
