@@ -16,7 +16,7 @@ I'm a passionate developer specializing in building scalable web applications an
 
 ### 🚀 About Me
 
-- 🔭 Currently working on full-stack applications using MERN stack
+- 🔭 Currently working on full-stack applications using MERN stack & Spring Boot
 - 🌱 Learning advanced cloud architecture and DevOps practices
 - 💬 Ask me about React, Node.js, AWS, Docker, and CI/CD
 - ⚡ Fun fact: I automate my coffee breaks with serverless functions
