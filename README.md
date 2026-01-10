@@ -58,6 +58,7 @@ I'm a passionate developer specializing in building scalable web applications an
   <img src="https://skillicons.dev/icons?i=terraform" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=linux" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=prometheus" /> &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snyk.svg" alt="Snyk" width="58" height="58"/>
 </p>
 
