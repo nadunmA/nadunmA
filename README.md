@@ -77,19 +77,16 @@ I'm a passionate developer specializing in building scalable web applications an
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadunmA&theme=tokyonight" alt="Repos Per Language" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadunmA&theme=tokyonight" alt="Most Commit Language" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadunmA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400"/>
+</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadunmA&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<p>
+  <img src="https://streak-stats.demolab.com/?user=nadunmA&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nadunmA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="500"/>
 </p>
 
 </div>
