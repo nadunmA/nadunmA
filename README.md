@@ -77,17 +77,9 @@ I'm a passionate developer specializing in building scalable web applications an
 
 <div align="center">
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadunmA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400"/>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadunmA&layout=compact&theme=tokyonight)](https://github.com/nadunmA)
 
-<p>
-  <img src="https://streak-stats.demolab.com/?user=nadunmA&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nadunmA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="500"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nadunmA&theme=tokyonight)](https://github.com/nadunmA)
 
 </div>
 
