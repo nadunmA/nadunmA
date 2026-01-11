@@ -77,9 +77,25 @@ I'm a passionate developer specializing in building scalable web applications an
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadunmA&layout=compact&theme=tokyonight)](https://github.com/nadunmA)
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadunmA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadunmA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadunmA&theme=tokyonight" alt="GitHub Profile Details"/>
+    </td>
+  </tr>
+</table>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nadunmA&theme=tokyonight)](https://github.com/nadunmA)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadunmA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 </div>
 
