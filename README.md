@@ -102,19 +102,22 @@ I'm a passionate developer specializing in building scalable web applications an
 
 ---
 
-### 📫 Connect With Me
+📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/nadunmA" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="www.linkedin.com/in/nadunal21" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/nadunmA" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
+
 
 ---
 
