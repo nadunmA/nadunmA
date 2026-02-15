@@ -27,7 +27,6 @@ I'm a passionate developer specializing in building scalable web applications an
 <p>
   <img src="https://skillicons.dev/icons?i=javascript" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 🖼️ Frontend Development
@@ -36,7 +35,6 @@ I'm a passionate developer specializing in building scalable web applications an
   <img src="https://skillicons.dev/icons?i=html" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ### ⚙️ Backend & Database
