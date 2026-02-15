@@ -57,7 +57,8 @@ I'm a passionate developer specializing in building scalable web applications an
   <img src="https://skillicons.dev/icons?i=git" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=linux" /> &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=prometheus" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snyk.svg" alt="Snyk" width="58" height="58"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snyk.svg" alt="Snyk" width="58" height="58"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="42" height="42" /> &nbsp;&nbsp;&nbsp;
 </p>
 
 ### 🛠️ Tools & Others
