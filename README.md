@@ -1,145 +1,118 @@
-<h1 align="center">
-  Hi there, I'm Nadun 👋
-</h1>
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=220&section=header&text=Hi%20there,%20I'm%20Nadun%20👋&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%"/>
+  
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+%26+DevOps+Engineer;MERN+Stack+%26+Spring+Boot;AWS+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&pause=800&color=0EA5E9&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;MERN+Stack+Specialist;AWS+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750090-94f6f9a5-4c5d-4f2a-9a76-3e2e7f6c8b8b.gif" width="100%" />
-</p>
-
-## 👨‍💻 Full-Stack Developer | Building expertise in Cloud & DevOps
-
-I'm a passionate developer specializing in building scalable web applications and cloud infrastructure. I love working with modern technologies and automating everything possible.
-
-### 🚀 About Me
-
-- 🔭 Currently working on full-stack applications using MERN stack & Spring Boot
-- 🌱 Learning advanced cloud architecture and DevOps practices
-- 💬 Ask me about React, Node.js, AWS, Docker, and CI/CD
-- ⚡ Fun fact: I automate my coffee breaks with serverless functions
+  <p align="center">
+    <a href="https://komarev.com/ghpvc/?username=nadunmA&color=0ea5e9&style=flat-square&label=Profile+Views">
+      <img src="https://komarev.com/ghpvc/?username=nadunmA&color=0ea5e9&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 📝 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+### 💫 About Me
 
-### 🖼️ Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+```yaml
+name: Nadun
+role: Full-Stack Developer & Cloud/DevOps Enthusiast
+core_stack: [MERN, Spring Boot, AWS, Docker, Kubernetes]
+passion: Building scalable architectures & automating complex workflows
+current_focus: Advanced Cloud Architecture & DevSecOps practices
+fun_fact: "I automate my coffee breaks with serverless functions ☕⚡"
+```
 
-### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🚀 DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=kubernetes" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nginx" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=jenkins" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=terraform" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=prometheus" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snyk.svg" alt="Snyk" width="58" height="58"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="42" height="42" /> &nbsp;&nbsp;&nbsp;
-</p>
-
-### 🛠️ Tools & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=grafana" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cloudflare" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" />
-</p>
+- 🔭 **Currently Building:** Scalable distributed web applications using MERN & Spring Boot
+- 🌱 **Deep Diving:** Microservices patterns, DevSecOps, and Terraform IaC
+- 💬 **Ask Me About:** React, Node.js, Spring Boot, AWS Architecture, CI/CD Pipelines
+- 🎯 **Looking For:** Full-Stack & DevOps / Cloud Engineering roles
 
 ---
 
-### 📊 GitHub Analytics
+### 🏆 GitHub Trophies
 
-<table>
-  <tr>
-    <td width="50%" align="center">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nadunmA&theme=tokyonight&no-frame=true&no-realtime=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
-<img src="https://readme-stats-fork-mauve.vercel.app/api/?username=brandonc123&theme=dark&show_icons=true&count_private=true" />
+---
 
-<td align="center"><img src="https://github-readme-streak-stats-five-roan.vercel.app?user=brandonc123&theme=dark" /></td>
+### 🛠️ Tech Stack & Skills
 
-<img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=brandonc123&theme=dark&layout=compact&langs_count=8&hide=liquid,elixir" />
+<div align="center">
 
-  </tr>
-</table>
+#### 💻 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,html,css,tailwind" />
+</p>
 
+#### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,redis" />
+</p>
+
+#### ☁️ Cloud & DevOps (Specialization)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,nginx,linux,prometheus,grafana,git,github" />
+</p>
+
+#### 🛡️ DevSecOps & Code Quality
+<p>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snyk.svg" alt="Snyk" width="46" height="46" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="42" height="42" />
+</p>
+
+#### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,cloudflare" />
+</p>
 
 </div>
 
 ---
 
-### 📚 What I'm Currently Learning
+### 📊 GitHub Activity & Analytics
 
-- 🔍 Advanced Kubernetes patterns and best practices
-- 🚀 Serverless architecture with AWS Lambda
-- 🤖 AI/ML integration in web applications
-- 🔐 Security best practices in DevOps (DevSecOps)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=nadunmA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nadun's GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadunmA&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadunmA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-📫 Connect With Me
+### 📬 Connect With Me
 
-<p align="center">
-  <a href="www.linkedin.com/in/nadunal21" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
+  <a href="https://www.linkedin.com/in/nadunal21" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> &nbsp;
   <a href="https://dev.to/nadunmA" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a> &nbsp;
   <a href="mailto:your.email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
 
+<br/>
 
----
-
-### 💼 Open to Opportunities
-
-I'm currently open to full-time opportunities in:
-- 🎯 Full-Stack Development (MERN Stack)
-- ☁️ Cloud Engineering & Architecture
-- 🔧 DevOps & Site Reliability Engineering
-- 🏗️ Microservices & Distributed Systems
-
-**Feel free to reach out if you want to collaborate or just chat about tech!**
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadunmA&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</p>
-
-<p align="center">
-  <i>⭐ From <a href="https://github.com/nadunmA">nadunmA</a></i>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=100&section=footer" width="100%" />
+</div>
