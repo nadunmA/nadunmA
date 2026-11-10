@@ -81,7 +81,7 @@ fun_fact: "I automate my coffee breaks with serverless functions ☕⚡"
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=nadunmA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nadun's GitHub Stats" />
+        <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=nadunmA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nadun's GitHub Stats" />
       </td>
       <td align="center" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadunmA&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
@@ -89,7 +89,7 @@ fun_fact: "I automate my coffee breaks with serverless functions ☕⚡"
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadunmA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+        <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=nadunmA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&hide=html" alt="Top Languages" />
       </td>
     </tr>
   </table>
