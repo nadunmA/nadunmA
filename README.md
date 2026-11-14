@@ -70,26 +70,6 @@ I'm an **AI engineering enthusiast** who loves turning intelligent ideas into re
 
 </div>
 
-<br/>
-
-## 📬 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/nadunal21">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://dev.to/nadunmA">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br/><br/>
-
-*"The best way to predict the future is to build it."* ✨
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
