@@ -29,7 +29,7 @@ I'm an **AI engineering enthusiast** who loves turning intelligent ideas into re
 
 #### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,react,typescript,java,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,react,typescript,java,html,css,tailwind" />
 </p>
 
 #### ⚙️ Backend & Databases
