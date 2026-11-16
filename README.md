@@ -16,10 +16,11 @@
 
 ## 🧠 About Me
 
-I'm an **AI engineering enthusiast** who loves turning intelligent ideas into real, usable products. I build full-stack apps and I'm going deeper into machine learning, LLMs and AI-powered systems every day.
+I'm an **AI Engineering Enthusiast** who loves turning intelligent ideas into real-world applications. I build full-stack applications and continuously explore the world of Machine Learning, LLMs, and AI-powered systems.
 
-- 🔭 **Current Focus:** Building LLM-powered applications, Autonomous Agents, and RAG pipelines.
-- 🌱 **Deep Diving:** Vector Databases, LangChain, Model Fine-tuning, and Agentic Workflows.
+- 🔭 **Current Focus:** Exploring LLM-powered applications, AI Agents, and RAG-based systems.
+- 🌱 **Currently Learning:** Machine Learning, Vector Databases, LangChain, Model Fine-tuning, and Agentic Workflows.
+- 💻 **Building With:** Java, Spring Boot, React, Docker, and modern AI technologies.
 
 <br/>
 
