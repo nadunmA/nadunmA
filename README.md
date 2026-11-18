@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=NADUN&fontSize=80&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineering%20Enthusiast&descSize=22&descAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=NADUN&fontSize=80&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%86%92%20AI%20Engineer&descSize=22&descAlignY=65&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Teaching+machines+to+think+%F0%9F%A7%A0;Building+LLM-powered+apps+%E2%9A%A1;From+idea+%E2%86%92+model+%E2%86%92+product+%F0%9F%9A%80;Full-Stack+dev+with+an+AI+obsession" alt="Typing SVG" />
@@ -16,11 +16,17 @@
 
 ## 🧠 About Me
 
-I'm an **AI Engineering Enthusiast** who loves turning intelligent ideas into real-world applications. I build full-stack applications and continuously explore the world of Machine Learning, LLMs, and AI-powered systems.
+I'm a **Full-Stack Developer** (Java, Spring Boot, React) currently building my way into **AI Engineering**. I learn by building: LLM apps, RAG pipelines, and AI agents.
 
-- 🔭 **Current Focus:** Exploring LLM-powered applications, AI Agents, and RAG-based systems.
+- 🔭 **Current Focus:** LLM-powered applications, AI Agents, and RAG-based systems.
 - 🌱 **Currently Learning:** Machine Learning, Vector Databases, LangChain, Model Fine-tuning, and Agentic Workflows.
 - 💻 **Building With:** Java, Spring Boot, React, Docker, and modern AI technologies.
+
+<br/>
+
+## 🌍 Open Source
+
+- **[springdoc-openapi](https://github.com/springdoc/springdoc-openapi)** – Identified a bug where MCP tools were not registered when `springdoc.enable-default-api-docs=false` was used with grouped APIs. Submitted [PR #3441](https://github.com/springdoc/springdoc-openapi/pull/3441) with a fallback fix and regression test; the maintainer resolved it with a broader approach (tools from every API group) in [`b46782a`](https://github.com/springdoc/springdoc-openapi/commit/b46782a), merged to `main` and slated for **v3.2.1**.
 
 <br/>
 
@@ -35,12 +41,12 @@ I'm an **AI Engineering Enthusiast** who loves turning intelligent ideas into re
 
 #### ⚙️ Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,mongodb,mysql,postgres,redis" />
 </p>
 
-#### ☁️ Cloud & DevOps (Specialization)
+#### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,nginx,linux,prometheus,grafana,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,nginx,prometheus,grafana,git,github" />
 </p>
 
 #### 🛡️ DevSecOps & Code Quality
@@ -68,8 +74,6 @@ I'm an **AI Engineering Enthusiast** who loves turning intelligent ideas into re
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadunmA&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
-
-</div>
 
 </div>
 
